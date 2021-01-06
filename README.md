@@ -4,7 +4,7 @@ Capstone Project
 
 **Project Members:**
 
-Sameer
+[Sameer](https://github.com/sameer916)
 
 Akash
 
