@@ -4,7 +4,7 @@ Capstone Project
 
 **Project Members:**
 
-Sameer Mittal
+Sameer
 
 Akash
 
